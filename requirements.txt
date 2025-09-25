@@ -1,0 +1,11 @@
+yahooquery
+pandas
+langchain
+langchain-community
+langchain-ollama
+python-dotenv
+flask
+jupyter
+streamlit
+plotly
+fpdf
