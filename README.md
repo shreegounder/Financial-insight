@@ -1,2 +1,0 @@
-# Financial-insight
-Class project
